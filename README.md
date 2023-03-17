@@ -1,5 +1,0 @@
-# CourseWork
-
-wooooooooo
-
-it works!
