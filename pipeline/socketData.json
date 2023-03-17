@@ -1,0 +1,138 @@
+{
+    "tilesetPlane_000.stl": {
+        "PosX": "1s",
+        "NegX": "1s",
+        "PosY": "1s",
+        "NegY": "1s",
+        "PosZ": "-1",
+        "NegZ": "-1"
+    },
+    "tilesetPlane_001.stl": {
+        "PosX": "2s",
+        "NegX": "2s",
+        "PosY": "-1s",
+        "NegY": "-1s",
+        "PosZ": "3s",
+        "NegZ": "3s"
+    },
+    "tilesetPlane_002.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_003.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_004.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_005.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_006.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_007.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_008.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_009.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_010.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_012.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_013.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_014.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_017.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_018.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    },
+    "tilesetPlane_020.stl": {
+        "PosX": null,
+        "NegX": null,
+        "PosY": null,
+        "NegY": null,
+        "PosZ": null,
+        "NegZ": null
+    }
+}

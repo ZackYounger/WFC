@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+<div>
+{% block head %}
+    <script>
+        const adjacencyData = JSON.parse('{{ adjPassData | tojson | safe }}');
+    </script>
+    <script type="module" src="../static/js/modules/three.js"></script>
+    <script type="module" src="../static/js/modules/orbitControls.js"></script>
+    <script type="module" src="../static/js/modules/STLLoader.js"></script>
+    <script type="module" src="../static/js/modules/GLTFLoader.js"></script>
+    <script type="text/javascript" src="../static/js/editor.js"></script>
+    <link rel="stylesheet" href="../static/css/editor.css">
+{% endblock %}
+</div>
+
+<div>
+{% block body %}
+    <canvas class="webgl"></canvas>
+{% endblock %}
+</div>
+<!--https://github.com/designcourse/threejs-webpack-starter>
